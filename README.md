@@ -12,7 +12,7 @@ The following are results of each model. The balanced accuracy score, precision,
 
 ### RandomOverSampler
 
-![RandomOverSampler](http://url/to/img.png)
+![RandomOverSampler](https://github.com/Aleahkita/Credit_Risk_Analysis/blob/main/Images/RandomOversampler.png)
 
 - Balanced accuracy score of ~0.65
 - Precision score of 0.99
@@ -21,7 +21,7 @@ The following are results of each model. The balanced accuracy score, precision,
 
 ### SMOTE
 
-![SMOTE](http://url/to/img.png)
+![SMOTE](https://github.com/Aleahkita/Credit_Risk_Analysis/blob/main/Images/SMOTE.png)
 
 - Balanced accuracy score of ~0.66
 - Precision score of 0.99
@@ -30,7 +30,7 @@ The following are results of each model. The balanced accuracy score, precision,
 
 ### ClusterCentroids
 
-![ClusterCentroids](http://url/to/img.png)
+![ClusterCentroids](https://github.com/Aleahkita/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids.png)
 
 - Balanced accuracy score of ~0.54
 - Precision score of 0.99
@@ -39,7 +39,7 @@ The following are results of each model. The balanced accuracy score, precision,
 
 ### SMOTEENN
 
-![SMOTEENN](http://u]rl/to/img.png)
+![SMOTEENN](https://github.com/Aleahkita/Credit_Risk_Analysis/blob/main/Images/Combination(Over%26Under).png)
 
 - Balanced accuracy score of ~0.67
 - Precision score of 0.99
@@ -49,7 +49,7 @@ The following are results of each model. The balanced accuracy score, precision,
 
 ### BalancedRandomForestClassifier
 
-![BalancedRandomForestClassifier](http://url/to/img.png)
+![BalancedRandomForestClassifier](https://github.com/Aleahkita/Credit_Risk_Analysis/blob/main/Images/BalancedRandomForest.png)
 
 - Balanced accuracy score of ~0.79
 - Precision score of 0.99
@@ -59,7 +59,7 @@ The following are results of each model. The balanced accuracy score, precision,
 
 ### EasyEnsembleClassifier
 
-![EasyEnsembleClassifier](http://url/to/img.png)
+![EasyEnsembleClassifier](https://github.com/Aleahkita/Credit_Risk_Analysis/blob/main/Images/EasyEnsemble.png)
 
 - Balanced accuracy score of ~0.93
 - Precision score of 0.99
